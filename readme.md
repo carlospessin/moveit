@@ -1,5 +1,5 @@
 <p align="center">
-  O MoveIt une a técnica de Pomodoro com tarefas de exercícios, trazendo uma experiência de gamificação para o usuário.
+  O Moveit une a técnica de Pomodoro com tarefas de exercícios, trazendo uma experiência de gamificação para o usuário.
 </p>
 
 ---
